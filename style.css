@@ -1,0 +1,31 @@
+body {
+    background:  url("fon.jpg");
+    background-size: cover;
+}
+
+.text{
+    text-align: center;
+    color: rgba(248, 241, 241, 0.801);
+    font-size: 40px;
+}
+
+.select{
+    display: block;
+    margin: auto;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    width: 450px;
+    
+}
+
+.price{
+    text-align: center;
+    color: rgba(248, 241, 241, 0.801);
+    font-size: 20px;
+    
+}
+
+
+

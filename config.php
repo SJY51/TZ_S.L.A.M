@@ -1,0 +1,9 @@
+<?php
+return[
+    'host'=>'localhost',
+    'db_name'=>'pizzeria2',
+    'username'=>'root',
+    'password'=>'1',
+    'charset'=>'utf8'
+];
+?>
